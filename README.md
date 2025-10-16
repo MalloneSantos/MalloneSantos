@@ -43,16 +43,16 @@ Aqui estão algumas imagens do sistema **Bonnapizza** em funcionamento!
 
 <div align="center">
   <a href="src/assets/dashboard.jpg" target="_blank">
-    <img src="src/assets/dashboard.jpg" alt="Bonnapizza - Dashboard Principal" width="250" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
+    <img src="src/assets/dashboard.jpg" alt="Bonnapizza - Dashboard Principal" width="350" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
   </a>
   <a href="src/assets/pedidos.jpg" target="_blank">
-    <img src="src/assets/pedidos.jpg" alt="Bonnapizza - Sistema de Pedidos" width="250" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
+    <img src="src/assets/pedidos.jpg" alt="Bonnapizza - Sistema de Pedidos" width="350" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
   </a>
   <a href="src/assets/relatorios.jpg" target="_blank">
-    <img src="src/assets/relatorios.jpg" alt="Bonnapizza - Relatórios e Análises" width="250" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
+    <img src="src/assets/relatorios.jpg" alt="Bonnapizza - Relatórios e Análises" width="350" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
   </a>
   <a href="src/assets/bairros.jpg" target="_blank">
-    <img src="src/assets/bairros.jpg" alt="Bonnapizza - Gestão de Bairros" width="250" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
+    <img src="src/assets/bairros.jpg" alt="Bonnapizza - Gestão de Bairros" width="350" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
   </a>
 </div>
 
