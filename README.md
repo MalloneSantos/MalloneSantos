@@ -35,6 +35,20 @@ Um sistema completo para pizzarias, com montagem de pizzas personalizadas, contr
 🖥️ **Back-end:** Laravel + MySQL  
 💻 **Front-end:** Vue.js
 
+---
+
+### 🏢 Organizações
+
+## 🏭 Ecossistema WMSGoSoft – Tecnologia e Inovação em Gestão de Armazéns
+
+> 🗺️ A **WMSGoSoft Group**, sediada em **Glassboro, New Jersey (NJ)**, é uma empresa de tecnologia voltada ao **desenvolvimento de soluções avançadas para gestão de armazéns (WMS)**, com foco em **automação, rastreabilidade e eficiência operacional**.
+
+- 🧠 **[@WMSGoSoftGroup](https://github.com/wmsgosoftware)** – Grupo responsável pela criação de **soluções integradas de Warehouse Management**, unindo **inovação, tecnologia e controle logístico inteligente**.
+
+- 🚀 **[@GoColdStorage](https://github.com/gocoldstorage)** – Sistema voltado ao **controle inteligente de câmaras frias e armazenamento refrigerado**, com **monitoramento em tempo real**, **otimização de espaço** e **precisão operacional**.
+
+- 📦 **[@GoProduce](https://github.com/goproduce)** – Plataforma de **gerenciamento e rastreamento de produtos agrícolas e perecíveis**, otimizando o **fluxo logístico**, a **qualidade dos produtos** e a **integração com centros de distribuição**.
+
 ### 📫 Contato
 
 - 💼 **LinkedIn:** [linkedin.com/in/mallonematheus](https://linkedin.com/in/MalloneSantos)
