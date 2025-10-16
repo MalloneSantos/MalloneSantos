@@ -26,9 +26,10 @@ Tenho experiência no uso de **Laravel**, **MySQL** e **Docker**, além de outra
 
 ---
 
-### 🍕 Projetos
+## 🍕 Projetos
 
-**[Bonnapizza - Sistema de Gerenciamento de Pizzaria](https://bonnapizzassp.com.br)**  
+### Bonnapizza - Sistema de Gerenciamento de Pizzaria
+
 Um sistema completo para pizzarias, com montagem de pizzas personalizadas, controle de pedidos, cadastro de clientes, gestão de produtos, taxa de entrega por bairro, chat em tempo real e painel administrativo responsivo.
 
 🔒 _Código-fonte privado_  
@@ -37,7 +38,7 @@ Um sistema completo para pizzarias, com montagem de pizzas personalizadas, contr
 
 ---
 
-### 🍕 Screenshots do Bonnapizza
+## 🍕 Screenshots do Bonnapizza
 
 Aqui estão algumas imagens do sistema **Bonnapizza** em funcionamento!
 
@@ -58,9 +59,9 @@ Aqui estão algumas imagens do sistema **Bonnapizza** em funcionamento!
 
 ---
 
-### 🏢 Organizações
+## 🏢 Organizações
 
-## 🏭 Ecossistema WMSGoSoft – Tecnologia e Inovação em Gestão de Armazéns
+### 🏭 Ecossistema WMSGoSoft – Tecnologia e Inovação em Gestão de Armazéns
 
 > 🗺️ A **WMSGoSoft Group**, sediada em **Glassboro, New Jersey (NJ)**, é uma empresa de tecnologia voltada ao **desenvolvimento de soluções avançadas para gestão de armazéns (WMS)**, com foco em **automação, rastreabilidade e eficiência operacional**.
 
@@ -76,5 +77,3 @@ Aqui estão algumas imagens do sistema **Bonnapizza** em funcionamento!
 - 📧 **E-mail:** [mallonematheus@gmail.com](mallonemateus.dev@gmail.com)
 
 ---
-
-⭐ Se gostou dos meus projetos, não esqueça de deixar um **Star** no repositório!
