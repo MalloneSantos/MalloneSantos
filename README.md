@@ -26,7 +26,7 @@ Tenho experiência no uso de **Laravel**, **MySQL** e **Docker**, além de outra
 
 ---
 
-### 🍕 Projeto em Destaque: Bonnapizza
+### 🍕 Projetos
 
 **[Bonnapizza - Sistema de Gerenciamento de Pizzaria](https://bonnapizzassp.com.br)**  
 Um sistema completo para pizzarias, com montagem de pizzas personalizadas, controle de pedidos, cadastro de clientes, gestão de produtos, taxa de entrega por bairro, chat em tempo real e painel administrativo responsivo.
