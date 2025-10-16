@@ -124,6 +124,10 @@ Sou apaixonado por tecnologia e por transformar ideias em soluções funcionais 
 **[Bonnapizza - Sistema de Gerenciamento de Pizzaria](https://bonnapizzassp.com.br)**  
 Um sistema completo para pizzarias, com montagem de pizzas personalizadas, controle de pedidos, cadastro de clientes, gestão de produtos, taxa de entrega por bairro, chat em tempo real e painel administrativo responsivo.
 
+### Back-end: laravel, MySQL
+
+### Front-end\_ Vue.js
+
 ---
 
 ### 📊 Estatísticas
