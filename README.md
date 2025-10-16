@@ -73,7 +73,7 @@ Aqui estão algumas imagens do sistema **Bonnapizza** em funcionamento!
 
 ### 📫 Contato
 
-- 💼 **LinkedIn:** [linkedin.com/in/mallonematheus](www.linkedin.com/in/mallonematheus)
-- 📧 **E-mail:** [mallonemateus.dev@gmail.com](mallonemateus.dev@gmail.com)
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mallonematheus" target="_blank">linkedin.com/in/mallonematheus</a>
+- 📧 **E-mail:** <a href="mallonemateus.dev@gmail.com" target="_blank">mallonemateus.dev@gmail.com</a>
 
 ---
