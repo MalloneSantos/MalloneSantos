@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Mallone Matheus
+# Mallone Matheus
 
 **`Desenvolvedor FullStack`**
 
