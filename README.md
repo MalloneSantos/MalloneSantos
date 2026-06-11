@@ -24,40 +24,6 @@ Tenho experiência no uso de **Laravel**, **MySQL** e **Docker**, além de outra
 <br/>
 <br/>
 
----
-
-## 🍕 Projetos
-
-### Bonnapizza - Sistema de Gerenciamento de Pizzaria
-
-Um sistema completo para pizzarias, com montagem de pizzas personalizadas, controle de pedidos, cadastro de clientes, gestão de produtos, taxa de entrega por bairro, chat em tempo real e painel administrativo responsivo.
-
-🔒 _Código-fonte privado_  
-🖥️ **Back-end:** Laravel + MySQL  
-💻 **Front-end:** Vue.js
-
----
-
-## 🍕 Screenshots do Bonnapizza
-
-Aqui estão algumas imagens do sistema **Bonnapizza** em funcionamento!
-
-<div align="center">
-  <a href="src/assets/dashboard.jpg" target="_blank">
-    <img src="src/assets/dashboard.jpg" alt="Bonnapizza - Dashboard Principal" width="350" style="margin: 5px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
-  </a>
-  <a href="src/assets/pedidos.jpg" target="_blank">
-    <img src="src/assets/pedidos.jpg" alt="Bonnapizza - Sistema de Pedidos" width="350" style="margin: 5px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
-  </a>
-  <a href="src/assets/relatorios.jpg" target="_blank">
-    <img src="src/assets/relatorios.jpg" alt="Bonnapizza - Relatórios e Análises" width="350" style="margin: 5px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
-  </a>
-  <a href="src/assets/bairros.jpg" target="_blank">
-    <img src="src/assets/bairros.jpg" alt="Bonnapizza - Gestão de Bairros" width="350" style="margin: 5px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s ease;"/>
-  </a>
-</div>
-
----
 
 ## 🏢 Organizações
 
