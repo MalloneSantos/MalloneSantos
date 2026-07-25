@@ -88,14 +88,6 @@ Sistema de gerenciamento de catálogo de produtos com importação automatizada.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.sigma-js.vercel.app/api?username=MalloneSantos&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.sigma-js.vercel.app/api/top-langs/?username=MalloneSantos&theme=dracula&layout=compact" />
-</div>
-
----
 
 ## Onde me encontrar
 
