@@ -131,15 +131,6 @@ Advanced Laravel development including Queue systems, REST API design, Authentic
 
 ---
 
-## 📊 Quick Stats
-
-```
-🏢 3+ Years Experience      💻 15+ Projects Delivered
-🔌 10+ REST APIs Designed    📱 2 Mobile Applications
-⚡ 40% Avg. Performance Improvement  🌍 100% Remote Ready
-```
-
----
 
 ## 🌐 Languages
 
