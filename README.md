@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=MalloneMatheus&color=006bed&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=MalloneSantos&color=006bed&style=flat)
 
 ## Sobre mim
 
@@ -91,8 +91,8 @@ Sistema de gerenciamento de catálogo de produtos com importação automatizada.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalloneMatheus&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalloneMatheus&theme=dracula&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalloneSantos&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalloneSantos&theme=dracula&layout=compact" />
 </div>
 
 ---
