@@ -1,185 +1,114 @@
-# Mallone Matheus S. Silva
+![Profile views](https://komarev.com/ghpvc/?username=MalloneMatheus&color=006bed&style=flat)
 
-**Full Stack Software Engineer**
+## Sobre mim
 
-📍 Salvador, Bahia, Brazil | 📧 [mallonemateus.santos@gmail.com](mailto:mallonemateus.santos@gmail.com) | 📱 +55 (71) 99640-4978
-
----
-
-## 🚀 About Me
-
-Results-driven Software Engineer with **3+ years of experience** developing scalable web applications, REST APIs, and enterprise solutions. Specialized in **PHP/Laravel** and **Node.js** ecosystems with a proven track record in warehouse management systems, e-commerce platforms, and payment integrations.
-
-Passionate about **clean code**, **performance optimization**, and building production-ready solutions that solve real business problems.
-
-**Open to:** Remote opportunities | Full-time roles | Contract projects
+- 🔍 Desenvolvedor Full Stack focado em **PHP/Laravel** e **Node.js**
+- 💼 Trabalhando como **Software Engineer** na **GO Enterprises LLC**
+- 🌱 Aprofundando conhecimentos em **arquitetura de sistemas**, **APIs escaláveis** e **integrações de pagamento**
+- 📍 Salvador, Bahia, Brazil
 
 ---
 
-## 💼 Work Experience
+## Minhas Skills
 
-### **GO Enterprises LLC** | Salvador, Brazil
-*Full Stack Software Engineer | January 2024 – Present*
+**Backend**
 
-Enterprise solutions for warehouse management, logistics, and business process automation.
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
-**Key Achievements:**
-- 📱 Led development of React Native mobile app for warehouse operations with 50+ daily active users
-- 🔌 Designed REST APIs with **99.9% uptime** and sub-200ms response times
-- ⚡ Implemented Laravel Queue workers with Redis, **reducing processing time by 40%**
-- 🗄️ Optimized MySQL database performance by **60%** through proper indexing
-- 🔒 Implemented comprehensive security practices (OWASP Top 10 compliance)
+**Frontend**
 
----
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
 
-### **IOSOFT** | Salvador, Brazil
-*Full Stack Software Developer | January 2022 – November 2024*
+**Database**
 
-Corporate web systems development with focus on backend and database management.
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 
-**Key Contributions:**
-- Built 5+ corporate web applications supporting 200+ internal users
-- Created REST APIs processing 10,000+ monthly transactions
-- Implemented role-based access control and authentication systems
-- Designed optimized database structures for high-volume operations
+**DevOps & Tools**
 
----
-
-## 🏆 Featured Projects
-
-### **Bonna Pizza** — Restaurant Operations Platform
-*November 2024*
-
-Complete online ordering system with real-time management and integrated payment processing.
-
-**Highlights:**
-- Real-time order synchronization using Laravel Broadcasting
-- Asynchronous payment processing (Mercado Pico + PIX) with Laravel Queues
-- **50% improvement** in application responsiveness
-- 99.9% payment success rate, 100+ daily orders
-
-**Tech:** PHP, Laravel, MySQL, Redis, JavaScript
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ---
 
-### **Anastore Camisola** — E-commerce Platform
-*February 2025*
+## Experiência de trabalho
 
-Product catalog management platform with automated import capabilities.
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-**Highlights:**
-- Automated pipeline processing **2,300+ products** in single batch
-- **90% reduction** in manual registration time
-- <5 minute processing time for large-scale imports
-- Hierarchical database design for product catalogs
+[<img align="left" height="94px" width="94px" alt="GO Enterprises" src="https://via.placeholder.com/94x94/1f2937/ffffff?text=GO+Enterprises"/>]()
 
-**Tech:** Node.js, React, MySQL, JavaScript
+**Full Stack Software Engineer** \
+[**GO Enterprises LLC**]() • Full-time • Jan 2024 – Presente \
+Linguagens & Tecnologias: `PHP`, `Laravel`, `React Native`, `MySQL`, `Redis`, `Node.js` \
+Projetos em destaque: Sistema de Warehouse Management, APIs REST, Processamento de Pagamentos
 
----
+[<img align="left" height="94px" width="94px" alt="IOSOFT" src="https://via.placeholder.com/94x94/1f2937/ffffff?text=IOSOFT"/>]()
 
-## 🛠️ Technical Skills
-
-### **Backend**
-<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
-### **Frontend**
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Vue.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-### **Database & Tools**
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Redis" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+**Full Stack Software Developer** \
+[**IOSOFT**]() • Full-time • Jan 2022 – Nov 2024 \
+Linguagens & Tecnologias: `PHP`, `MySQL`, `JavaScript`, `HTML`, `CSS` \
+Projetos em destaque: Sistemas corporativos, Integrações de API, Autenticação e RBAC
 
 <br/>
-<br/>
-
-### **Core Competencies**
-
-| Area | Skills |
-|------|--------|
-| **APIs** | REST APIs, API Design, Authentication, Laravel Queues |
-| **Database** | MySQL, Redis, Query Optimization, Database Modeling |
-| **Real-time** | WebSockets, Laravel Broadcasting, Event-driven Architecture |
-| **Payments** | PIX Integration, Mercado Pago, Webhook Processing |
-| **Architecture** | Microservices, Queue Systems, SOLID Principles |
 
 ---
 
-## 🎓 Education
+## Projetos em destaque
 
-### **UNIGRAN**
-*Bachelor's Degree in Software Engineering | 2022 – Present*
+### 🍕 Bonna Pizza — Plataforma de Pedidos Online
 
-**Relevant Coursework:** Algorithms, Data Structures, Database Systems, Software Architecture, Web Development, API Design
+Sistema completo para restaurante com pedidos em tempo real e processamento de pagamentos.
 
----
+- ✅ Sincronização em tempo real com Laravel Broadcasting
+- ✅ Pagamento PIX via Mercado Pico com processamento assíncrono
+- ✅ Backend em PHP/Laravel com REST APIs
 
-## 📜 Certifications
-
-### **Laravel Professional Development**
-*Fábrica de Desenvolvedores | Completed: March 2025*
-
-Advanced Laravel development including Queue systems, REST API design, Authentication patterns, and Event broadcasting.
+**Tech Stack:** PHP, Laravel, MySQL, Redis, JavaScript
 
 ---
 
+### 🛍️ Anastore Camisola — Plataforma E-commerce
 
-## 🌐 Languages
+Sistema de gerenciamento de catálogo de produtos com importação automatizada.
 
-| Language | Proficiency |
-|----------|-------------|
-| 🇧🇷 **Portuguese** | Native |
-| 🇺🇸 **English** | Professional Proficiency (B2/C1) |
-| 📖 *Studying* | Advanced English (Ongoing) |
+- ✅ Pipeline de importação que processou 2.300+ produtos
+- ✅ Redução de 90% no tempo de cadastro manual
+- ✅ Full Stack com Node.js e React
 
----
-
-## 🎯 Focus Areas
-
-- **Payment Systems & Fintech** — PIX, payment gateways, webhook processing
-- **E-commerce Solutions** — Product catalogs, order management, inventory systems
-- **Real-time Applications** — WebSocket, live updates, event-driven systems
-- **Performance Optimization** — Database tuning, caching strategies, queue optimization
+**Tech Stack:** Node.js, React, MySQL, JavaScript
 
 ---
 
-## 📫 Contact
-
-**Currently based in:** Salvador, Bahia, Brazil
-**Work arrangement:** Remote | Hybrid | Open to relocation
+## GitHub Stats
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/mallonematheus" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mallonemateus.santos@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://wa.me/5571996404978" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalloneMatheus&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalloneMatheus&theme=dracula&layout=compact" />
 </div>
+
+---
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-mallonematheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mallonematheus)](https://www.linkedin.com/in/mallonematheus)
+[![Gmail](https://img.shields.io/badge/-mallonemateus.santos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mallonemateus.santos@gmail.com)](mailto:mallonemateus.santos@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-+55(71)99640-4978-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5571996404978)](https://wa.me/5571996404978)
 
 ---
 
 <div align="center">
 
-*"Building scalable solutions that solve real business problems, one clean line of code at a time."*
-
-**References available upon request.**
+**"Desenvolvendo soluções escaláveis que resolvem problemas reais, uma linha de código limpo por vez."**
 
 </div>
 
 ---
 
-*Last updated: July 2026*
+*Última atualização: Julho 2026*
