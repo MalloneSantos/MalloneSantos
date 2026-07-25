@@ -28,6 +28,8 @@
 **Database**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
 
 **DevOps & Tools**
@@ -62,7 +64,7 @@ Projetos em destaque: Sistemas corporativos, Integrações de API, Autenticaçã
 
 ## Projetos em destaque
 
-### 🍕 Bonna Pizza — Plataforma de Pedidos Online
+### 🍕 [Bonna Pizza](https://bonnapizzassp.com.br/) — Plataforma de Pedidos Online
 
 Sistema completo para restaurante com pedidos em tempo real e processamento de pagamentos.
 
@@ -74,7 +76,7 @@ Sistema completo para restaurante com pedidos em tempo real e processamento de p
 
 ---
 
-### 🛍️ Anastore Camisola — Plataforma E-commerce
+### 🛍️ [Anastore Camisola](https://anstorecamisola.com/) — Plataforma E-commerce
 
 Sistema de gerenciamento de catálogo de produtos com importação automatizada.
 
